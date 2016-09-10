@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 动作导航条高度 -->
+    <dimen name="actionbar_height">36dp</dimen>
+    <dimen name="actionbar_titlesize">16sp</dimen>
+    <dimen name="actionbar_icon_width">36dp</dimen>
+    <dimen name="actionbar_icon_heigth">36dp</dimen>
+
+    <!-- 通讯大全 -->
+    <dimen name="tel_show_height">160dp</dimen>
+    <dimen name="tel_show_textsize">20sp</dimen>
+    <dimen name="tel_item_height">70dp</dimen>
+    <dimen name="tel_listitem_height">40dp</dimen>
+
+</resources>
